@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Pyry Seppälä👋
-> Student and an aspiring software developer from Finland.
+> Student from Finland.
 - 🚀 I’m interested in everything tech related!
 - 🌱 I’m currently developing my full-stack skills!
 - 😊 I want to create and develop solutions that look beautiful and provide a great user experience!
