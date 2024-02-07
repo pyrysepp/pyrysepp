@@ -2,8 +2,8 @@
 > Student from Finland.
 - 🚀 I’m interested in everything tech related!
 - 🌱 I’m currently developing my full-stack skills!
-- 😊 I want to create and develop solutions that look beautiful and provide a great user experience!
-
+- 😊 I want to create and develop solutions that look and feel awesome to use!
+- 🌍 Lets make the world a better place with the help of technology!
 
 
 <!---
