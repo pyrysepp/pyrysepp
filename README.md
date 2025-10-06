@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Pyry Seppälä👋
-> Junior Data Engineer / 2025 MSc. (Technology) graduate from Finland.
+>  Data Engineer / 2025 MSc. (Technology) graduate from Finland.
 - 🚀 I’m interested in everything tech related!
-- 🌱 I’m aspiring to be an all arounder in the digital technology landscape!
+- 🌱 Future professional in the digital technology landscape!
 - 😊 I want to create and develop solutions that are awesome to use and provide tangible value for their users!
 - 🌍 Lets make the world a better place with the help of technology!
 
